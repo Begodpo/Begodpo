@@ -22,7 +22,7 @@ Ahora que he terminado el bootcamp en la escuela tecnológica Adalab, lo que má
 
 ![Email](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Email_Logo_PNG.png/30px-Email_Logo_PNG.png) begodpo@gmail.com
 
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Antu_linkedin.svg/30px-Antu_linkedin.svg.png)](www.linkedin.com/in/begoña-del-pozo-oltra)
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Antu_linkedin.svg/30px-Antu_linkedin.svg.png)](https://www.linkedin.com/in/bego%C3%B1a-del-pozo-oltra/)
 
 
 
